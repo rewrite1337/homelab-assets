@@ -1,7 +1,4 @@
-# homelab-assets
-Public static assets for homelab services, including avatars, icons, logos, and other visual resources. Managed with Git and served via GitHub Raw URLs.
-
-**# Homelab Assets
+# Homelab Assets
 
 Static images used by my homelab services.
 
@@ -21,4 +18,4 @@ Raw URL format:
 
 - Public repository.
 - Use descriptive filenames.
-- Do not store secrets.**
+- Do not store secrets.
